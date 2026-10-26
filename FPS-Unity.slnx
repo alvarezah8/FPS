@@ -1,0 +1,17 @@
+﻿<Solution>
+  <Project Path="UnityEngine.Purchasing.Stores.csproj" />
+  <Project Path="UnityEditor.Purchasing.csproj" />
+  <Project Path="UnityEngine.Purchasing.csproj" />
+  <Project Path="UnityEngine.Purchasing.SecurityCore.csproj" />
+  <Project Path="UnityEngine.Purchasing.Codeless.csproj" />
+  <Project Path="Assembly-CSharp-Editor.csproj" />
+  <Project Path="UnityEngine.Purchasing.AppleCore.csproj" />
+  <Project Path="UnityEngine.Purchasing.SecurityStub.csproj" />
+  <Project Path="IAPResolver.csproj" />
+  <Project Path="UnityEngine.Purchasing.WinRTStub.csproj" />
+  <Project Path="UnityEngine.Purchasing.AppleStub.csproj" />
+  <Project Path="UnityEngine.Purchasing.WinRTCore.csproj" />
+  <Project Path="Purchasing.Common.csproj" />
+  <Project Path="UnityEngine.Purchasing.AppleMacosStub.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
+</Solution>
